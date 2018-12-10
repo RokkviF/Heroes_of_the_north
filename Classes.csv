@@ -1,0 +1,4 @@
+class,weapon,health,damage,luck
+warrior,Two handed sword,10,12,3
+mage,magic staff,11,10,4
+rouge,bow,8,14,5
