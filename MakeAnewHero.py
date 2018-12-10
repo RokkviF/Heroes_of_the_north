@@ -30,11 +30,10 @@ def printAllclasses():
 		print("So now for the class " '\n')
 		print('you can choose: ''\n')
 		for row in types:
-			print('Class ' + row['class'])
+			print('Class: ' + row['class'])
 			print('Main weapon: '+ row['weapon'])
 			print('Stats: ')
 			print('   Health: ' +row['health'])
 			print('   Damage: ' +row['damage'])
 			print('   Luck: ' +row['luck'])
 
-makeAnew()
